@@ -37,6 +37,10 @@ a:hover {
 	border-bottom: 2px solid #f15b31;
 }
 
+a[name]:hover {
+	border-bottom: 2px solid transparent;
+}
+
 nav a:hover {
 	border-bottom: 2px solid white;
 }
